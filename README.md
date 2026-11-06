@@ -4,6 +4,8 @@ A single-file, browser-based tool that turns one source image into a complete fa
 
 Everything runs client-side. Your image is never uploaded to a server.
 
+<img width="1220" alt="image" src="https://github.com/user-attachments/assets/d9fedfcd-a257-4f46-a09e-37e526203f2d" />
+
 ## Features
 
 - **One image in, full package out**: 22 PNGs plus `favicon.ico`, `manifest.json` and `browserconfig.xml`
